@@ -6,5 +6,5 @@ public class TimeConvertor {
           minutes = minutes * 60;
           System.out.print(minutes);
     }
-    }
+   
 }
